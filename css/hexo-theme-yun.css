@@ -2122,3 +2122,4 @@ body::before {
   padding: 1rem;
   border: 1px solid #d3d3d3;
 }
+.post-body p { text-indent: 2em; }
