@@ -191,7 +191,7 @@ html.dark {
   color: #000;
 }
 body {
-  font-family: 'PingFang SC', 'Microsoft YaHei', Roboto, Arial, sans-serif;
+  font-family: 'Noto Serif SC', 'PingFang SC', 'Microsoft YaHei', Roboto, Arial, sans-serif;
   font-weight: 400;
   margin: 0;
   padding: 0;
@@ -1398,7 +1398,7 @@ body::before {
   background: rgba(253,194,78,0.3);
 }
 .post-collapse .collection-title .archive-year {
-  font-family: 'Source Code Pro', Consolas, Monaco, SFMono-Regular, 'Ubuntu Mono', Menlo, monospace;
+  font-family: 'Source Code Pro', 'Courier New', Courier, Consolas, Monaco, monospace;
   color: #fdc24e;
   margin: 0 1.5rem;
 }
@@ -1462,7 +1462,7 @@ body::before {
   margin-right: 0.3rem;
 }
 .post-collapse .post-header .post-meta {
-  font-family: 'Source Code Pro', Consolas, Monaco, SFMono-Regular, 'Ubuntu Mono', Menlo, monospace;
+  font-family: 'Source Code Pro', 'Courier New', Courier, Consolas, Monaco, monospace;
   font-size: 1rem;
   margin: 1rem 0 1rem 1.2rem;
   white-space: nowrap;
@@ -1536,11 +1536,11 @@ body::before {
 .markdown-body {
   color: var(--hty-text-color);
   font-weight: 400;
-  font-family: 'PingFang SC', 'Microsoft YaHei', Roboto, Arial, sans-serif;
+  font-family: 'Noto Serif SC', 'PingFang SC', 'Microsoft YaHei', Roboto, Arial, sans-serif;
 }
 .markdown-body code,
 .markdown-body pre {
-  font-family: 'Source Code Pro', Consolas, Monaco, SFMono-Regular, 'Ubuntu Mono', Menlo, monospace;
+  font-family: 'Source Code Pro', 'Courier New', Courier, Consolas, Monaco, monospace;
 }
 .markdown-body blockquote {
   padding: 0.6rem 1rem;
@@ -1784,7 +1784,7 @@ body::before {
   color: #db2828;
 }
 .post-toc ol .toc-number {
-  font-family: 'Source Code Pro', Consolas, Monaco, SFMono-Regular, 'Ubuntu Mono', Menlo, monospace;
+  font-family: 'Source Code Pro', 'Courier New', Courier, Consolas, Monaco, monospace;
 }
 .post-toc ol .toc-child {
   font-size: 1rem;
@@ -2122,4 +2122,3 @@ body::before {
   padding: 1rem;
   border: 1px solid #d3d3d3;
 }
-.post-body p { text-indent: 2em; }
