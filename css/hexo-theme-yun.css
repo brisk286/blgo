@@ -191,8 +191,8 @@ html.dark {
   color: #000;
 }
 body {
-  font-family: 'Noto Serif SC', 'PingFang SC', 'Microsoft YaHei', Roboto, Arial, sans-serif;
-  font-weight: 400;
+  font-family: 'PingFang SC', 'Microsoft YaHei', Roboto, Arial, sans-serif;
+  font-weight: 100;
   margin: 0;
   padding: 0;
   line-height: 2;
@@ -223,23 +223,23 @@ h6 {
 }
 h1 {
   font-size: 2.5rem;
-  font-weight: 400;
+  font-weight: 100;
 }
 h2 {
   font-size: 2.2rem;
-  font-weight: 400;
+  font-weight: 100;
 }
 h3 {
   font-size: 1.9rem;
-  font-weight: 400;
+  font-weight: 100;
 }
 h4 {
   font-size: 1.6rem;
-  font-weight: 400;
+  font-weight: 100;
 }
 h5 {
   font-size: 1.3rem;
-  font-weight: 400;
+  font-weight: 100;
 }
 h6 {
   font-size: 1rem false;
@@ -1535,8 +1535,8 @@ body::before {
 }
 .markdown-body {
   color: var(--hty-text-color);
-  font-weight: 400;
-  font-family: 'Noto Serif SC', 'PingFang SC', 'Microsoft YaHei', Roboto, Arial, sans-serif;
+  font-weight: 100;
+  font-family: 'PingFang SC', 'Microsoft YaHei', Roboto, Arial, sans-serif;
 }
 .markdown-body code,
 .markdown-body pre {
