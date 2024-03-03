@@ -192,7 +192,7 @@ html.dark {
 }
 body {
   font-family: 'PingFang SC', 'Microsoft YaHei', Roboto, Arial, sans-serif;
-  font-weight: 100;
+  font-weight: 150;
   margin: 0;
   padding: 0;
   line-height: 2;
@@ -223,23 +223,23 @@ h6 {
 }
 h1 {
   font-size: 2.5rem;
-  font-weight: 100;
+  font-weight: 150;
 }
 h2 {
   font-size: 2.2rem;
-  font-weight: 100;
+  font-weight: 150;
 }
 h3 {
   font-size: 1.9rem;
-  font-weight: 100;
+  font-weight: 150;
 }
 h4 {
   font-size: 1.6rem;
-  font-weight: 100;
+  font-weight: 150;
 }
 h5 {
   font-size: 1.3rem;
-  font-weight: 100;
+  font-weight: 150;
 }
 h6 {
   font-size: 1rem false;
@@ -1535,7 +1535,7 @@ body::before {
 }
 .markdown-body {
   color: var(--hty-text-color);
-  font-weight: 100;
+  font-weight: 150;
   font-family: 'PingFang SC', 'Microsoft YaHei', Roboto, Arial, sans-serif;
 }
 .markdown-body code,
@@ -2122,4 +2122,3 @@ body::before {
   padding: 1rem;
   border: 1px solid #d3d3d3;
 }
-.post-body p { text-indent: 2em; }
